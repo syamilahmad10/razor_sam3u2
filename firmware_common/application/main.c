@@ -1,6 +1,8 @@
 /*!**********************************************************************************************************************
 @file main.c                                                                
-@brief Main system file for the EiE firmware.  
+@brief Main system file for the EiE firmware.
+
+Forked by Syamil Ahmad 2023-12-27  
 ***********************************************************************************************************************/
 
 #include "configuration.h"
